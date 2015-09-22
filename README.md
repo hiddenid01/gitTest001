@@ -4,6 +4,8 @@
 
 # Design pattern samples in Java
 
+[![Join the chat at https://gitter.im/hiddenid01/gitTest001](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/hiddenid01/gitTest001?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![Build status](https://travis-ci.org/iluwatar/java-design-patterns.svg?branch=master)](https://travis-ci.org/iluwatar/java-design-patterns)
 [![Coverage Status](https://coveralls.io/repos/iluwatar/java-design-patterns/badge.svg?branch=master)](https://coveralls.io/r/iluwatar/java-design-patterns?branch=master)
 [![Coverity Scan Build Status](https://scan.coverity.com/projects/5634/badge.svg)](https://scan.coverity.com/projects/5634)
