@@ -23,9 +23,7 @@ addons:
   artifacts:
     debug: true
     paths:
-    - $(git ls-files -o | tr "\n" ":")
-    - $(ls /var/log/*.log | tr "\n" ":")
-    - $HOME/some/other/thing.log
+    - ./mmc/
     target_paths: $TRAVIS_BUILD_NUMBER
     working_dir: WORKING_DIR
     bucket: uss001
