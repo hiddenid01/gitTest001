@@ -30,12 +30,11 @@ addons:
     working_dir: WORKING_DIR
     bucket: uss001
     s3_region: us-east-1
-    
-#  coverity_scan:
-#    project:
-#      name: "hiddenid01/gitTest001"
-#      description: "Build submitted via Travis CI"
-#    notification_email: hiddenid@naver.com
-#    build_command_prepend: "mvn clean"
-#    build_command:   "mvn -DskipTests=true compile"
-#    branch_pattern: coverity_scan
+  coverity_scan:
+    project:
+      name: "hiddenid01/gitTest001"
+      description: "Build submitted via Travis CI"
+    notification_email: hiddenid@naver.com
+    build_command_prepend: "mvn clean"
+    build_command:   "mvn -DskipTests=true compile"
+    branch_pattern: coverity_scan\
