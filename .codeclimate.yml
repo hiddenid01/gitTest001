@@ -1,3 +1,6 @@
+service_name: travis-pro
+repo_token: SojjxyWoa0G3iCMHCL3jrZkbfA7MBzTxC
+
 # This is a sample .codeclimate.yml configured for Engine analysis on Code
 # Climate Platform. For an overview of the Code Climate Platform, see here:
 # http://docs.codeclimate.com/article/300-the-codeclimate-platform
